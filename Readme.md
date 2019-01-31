@@ -1,3 +1,3 @@
-### Tutorial basic concept arrays and pointers
+# Tutorial basic concept arrays and pointers
 ## Arrays
 ## Pointers
